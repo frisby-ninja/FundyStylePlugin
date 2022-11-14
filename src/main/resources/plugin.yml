@@ -1,0 +1,6 @@
+name: FundyStyle
+version: '${project.version}'
+main: net.ninjaworks.fundystyle.FundyStyle
+api-version: 1.19
+authors: [ frisby_ninja ]
+description: A Fundy-Style modification plugin.
